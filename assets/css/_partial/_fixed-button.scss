@@ -13,7 +13,7 @@
   color: $global-font-secondary-color;
   background: $header-background-color;
   @include border-radius(.25rem);
-  @include box-shadow(0 2px 4px -1px rgba(0, 0, 0, 0.2));
+  @include box-shadow(0 2px 4px -1px rgba(255, 0, 0, 0.2));
   @include transition(color 0.4s ease);
 
   @include blur;
