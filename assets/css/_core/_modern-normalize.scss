@@ -31,7 +31,7 @@ hr {
 }
 
 abbr[title] {
-	text-decoration: underline dotted;
+	text-decoration: underline solid;
 }
 
 b,
@@ -107,7 +107,7 @@ button,
 }
 
 :-moz-focusring {
-	outline: 1px dotted ButtonText;
+	outline: 1px solid ButtonText;
 }
 
 :-moz-ui-invalid {
